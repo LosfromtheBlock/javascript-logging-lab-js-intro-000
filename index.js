@@ -1,1 +1,1 @@
-console.error("I am in grave danger! Send HELP NOW")
+console.error("I\'m in grave danger! Send HELP NOW")
